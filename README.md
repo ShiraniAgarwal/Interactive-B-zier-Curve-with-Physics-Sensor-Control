@@ -128,7 +128,7 @@ The spring physics ensures that the control points smoothly follow the target in
 ```
 / (root)
 ├── index.html        # Canvas and UI (Web)
-├── main.js           # Bézier math, physics, rendering logic
+├── script.js           # Bézier math, physics, rendering logic
 ├── README.md         # Project documentation
 ```
 
@@ -183,11 +183,7 @@ Logic is separated into:
 
 ## Demo Requirement
 
-A **screen recording (≤ 30 seconds)** is included showing:
-
-* Real-time interaction
-* Smooth spring motion
-* Tangent visualization
+https://github.com/user-attachments/assets/b662a211-79ce-4920-bef2-95f6551e9b2e
 
 ---
 
